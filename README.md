@@ -1,6 +1,6 @@
 Last updated at 06/19/2022
 # RLOMTFAG 
-The code of Robust collaborative clustering approach with Adaptive Local Structure Learning
+The code of Robust collaborative clustering approach with Adaptive Local Structure Learning,
 Knowledge-Based Systems, 
 under review.
 Jiayi Tang and Hui Feng
@@ -11,7 +11,7 @@ main file: Cluster_ability.m; Robust_ability.m; Collaborative_ability.m; Adaptiv
 
 Robust Local-coordinate Non-negative Matrix Factorization with Adaptive Graph for Robust Clustering
 # RLNMFAG
-The code of Robust Local-coordinate Non-negative Matrix Factorization with Adaptive Graph for Robust Clustering
+The code of Robust Local-coordinate Non-negative Matrix Factorization with Adaptive Graph for Robust Clustering,
 INFORMATION SCIENCES, 
 under review.
 Jiayi Tang and Hui Feng
