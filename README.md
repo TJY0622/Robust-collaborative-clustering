@@ -6,5 +6,3 @@ https://doi.org/10.1016/j.knosys.2022.109222
 Jiayi Tang and Hui Feng
 
 main file: Cluster_ability.m; Robust_ability.m; Collaborative_ability.m; Adaptive_learning_ability.m
-
-# Robust-Clustering-RLNMFAG (https://github.com/TJY0622/Robust-Clustering-RLNMFAG.git)
